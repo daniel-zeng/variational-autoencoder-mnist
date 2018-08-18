@@ -9,4 +9,4 @@ Network digit reconstruction:<br>
 <img src="/img/1.png" alt="Img recon" width="50%">
 
 ### Dependencies:
-Requires tensorflow, numpy, matplotlib
+Requires TensorFlow, Numpy, Matplotlib
